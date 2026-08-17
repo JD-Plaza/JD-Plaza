@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**JD-Plaza/JD-Plaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+- 🔭 Actualmente estoy trabajando en **[Tu Proyecto]**
+- 🌱 Estoy aprendiendo **[Tecnología o Lenguaje]**
+- 💬 Pregúntame sobre **[Tus temas de interés]**
+- 📫 Cómo contactarme: **[Tu Correo o Enlace]**
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![Node.js](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Mis Estadísticas de GitHub
+![Estadísticas de GitHub](https://vercel.app)
+
