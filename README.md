@@ -3,6 +3,9 @@
 # **JD-Plaza**
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JD-Plaza/JD-Plaza/main/assets/gradient-typing-animated.svg" alt="Gradient Typing" />
+</p>
 
 ## **Frontend**
 
