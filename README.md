@@ -4,7 +4,7 @@
 
 </div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JD-Plaza/JD-Plaza/main/assets/gradient-typing-animated.svg" alt="Gradient Typing" />
+  <img src="https://raw.githubusercontent.com/JD-Plaza/JD-Plaza/refs/heads/main/gradient-typing-animated.svg" alt="Gradient Typing" />
 </p>
 
 ## **Frontend**
