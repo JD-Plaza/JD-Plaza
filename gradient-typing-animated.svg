@@ -16,7 +16,7 @@
   </defs>
 
   <g clip-path="url(#reveal)">
-    <text x="0" y="50%" dominant-baseline="middle" text-anchor="start" font-family="Fira Code, monospace" font-size="20" fill="url(#grad1)">12 meses programando · Aprendiendo cada dia · Construyendo proyectos reales</text>
+    <text x="0" y="50%" dominant-baseline="middle" text-anchor="start" font-family="Fira Code, monospace" font-size="20" fill="url(#grad1)"> Programación· Aprendiendo cada dia · Construyendo proyectos reales</text>
   </g>
 
   <rect width="4" height="30" y="10" fill="#ffffff" rx="1">
